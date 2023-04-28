@@ -4,4 +4,4 @@
 
 ## Usage
 
-Incoming...
+master safe against force push
